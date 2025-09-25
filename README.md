@@ -36,7 +36,7 @@
             padding: 2px 4px;
             border-radius: 4px;
         }
-    </style>
+ </style>
 </head>
 <body>
     <div class="container">
